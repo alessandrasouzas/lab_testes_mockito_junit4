@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: le16bits
+Build-Jdk: 17
+Implementation-Title: lab
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: le.com.br
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/lab
+Created-By: Maven Integration for Eclipse
+
